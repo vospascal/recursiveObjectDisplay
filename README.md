@@ -1,2 +1,0 @@
-# recursiveObjectDisplay
-Created with CodeSandbox
